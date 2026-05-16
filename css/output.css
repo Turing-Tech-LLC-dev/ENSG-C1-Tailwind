@@ -754,9 +754,6 @@
   .py-16 {
     padding-block: calc(var(--spacing) * 16);
   }
-  .pt-4 {
-    padding-top: calc(var(--spacing) * 4);
-  }
   .pl-3 {
     padding-left: calc(var(--spacing) * 3);
   }
